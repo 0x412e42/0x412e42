@@ -6,9 +6,13 @@ _I believe there are no bad solutions, only expensive or misaligned ones. Every 
 
 - 10+ years designing and operating high-load platforms, with end-to-end ownership and a product focus
 - Architecture: Distributed Systems, Event-Driven, CQRS, DDD
-- Stack: Rust, Java, Go, Kubernetes, Kafka, SQL/NoSQL, AWS
 - Currently exploring: LLM inference internals
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,java,go,kubernetes,kafka,postgres,aws" alt="Rust, Java, Go, Kubernetes, Kafka, Postgres, AWS" />
+</p>
+
+Reach me:
 <p align="left">
     <a href="https://github.com/0x412e42" target="_blank" rel="noreferrer" title="0x412e42 on GitHub">
         <picture>
@@ -25,10 +29,6 @@ _I believe there are no bad solutions, only expensive or misaligned ones. Every 
         </picture>
     </a>
     <a href="mailto:cyberpunk.person@gmail.com" target="_blank" rel="noreferrer" title="Email">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/white" />
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/black" />
-            <img src="https://cdn.simpleicons.org/gmail/black" width="32" height="32" alt="Email" />
-        </picture>
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" />
     </a>
 </p>
