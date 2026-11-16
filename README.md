@@ -5,6 +5,7 @@
 _I believe there are no bad solutions, only expensive or misaligned ones. Every solution has trade-offs. The key is finding the right balance._
 
 - 10+ years designing and operating high-load platforms, with end-to-end ownership and a product focus
+- Shipped: social network platform for investors (10M MAU), trading platforms, banking identity systems
 - Architecture: Distributed Systems, Event-Driven, CQRS, DDD
 - Currently exploring: LLM inference internals
 
